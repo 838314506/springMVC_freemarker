@@ -1,0 +1,2 @@
+# springMVC_freemarker
+此项目用于对xml文件生成的一个优化，包含替换模板文件和使用模板设计模式
